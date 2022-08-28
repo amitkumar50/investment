@@ -3,6 +3,7 @@
   - [OPM](#opm)
   - [NPM](#npm)
 - [Revenue](#re)
+- [Tax payout = Tax Refund]
 
 ### Good Values
 - **High:** OPM, NPM
