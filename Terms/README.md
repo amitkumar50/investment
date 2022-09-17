@@ -1,9 +1,17 @@
+- [EPS](#eps)
 - Good Values
 - Margin
   - [OPM](#opm)
   - [NPM](#npm)
+- [Market Cap](#mc)
+- [P/E (Price to Earning Ratio)](#pe)
 - [Revenue](#re)
 - [Tax payout = Tax Refund]
+
+<a name=eps></a>
+### EPS(Earning per share)
+Profit earned on 1 share/year. EPS = (Company's Total profit)/(Total shares)
+
 
 ### Good Values
 - **High:** OPM, NPM
@@ -24,6 +32,21 @@ OPM = 0.4 (1-0.6)
 ```c
 NPM = net income / profits
 ```
+
+<a name=mc></a>
+### Market Cap
+- [Hindustan unilever on Ticker Finology](https://ticker.finology.in/company/HINDUNILVR)
+- MC is money with which we can buy full company today, ie becoming 100% owner.
+```c
+MC = (1 Share Price) x (Total Shares) = 2528 x 23400000 = 59,155,200,000 = 5000 Cr
+```
+- **Why MC is useful?**
+  - Gives idea how big is company
+
+<a name=pe></a>
+### P/E (Price to Earning Ratio)
+- (Price of Share)/EPS. [Example HUL](https://ticker.finology.in/company/HINDUNILVR)
+- 2528/38=66.67
 
 <a name=re></a>
 ### Revenue
