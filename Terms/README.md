@@ -1,4 +1,6 @@
+- [Depreciation](#dep)
 - [EPS](#eps)
+- [Equity](#eq)
 - Good Values
 - Margin
   - [OPM](#opm)
@@ -8,10 +10,16 @@
 - [Revenue](#re)
 - [Tax payout = Tax Refund]
 
+<a name=dep></a>
+### Depreciation
+a reduction in the value of an asset over time, due in particular to wear and tear.
+
 <a name=eps></a>
 ### EPS(Earning per share)
 Profit earned on 1 share/year. EPS = (Company's Total profit)/(Total shares)
 
+<a name=eq></a>
+### Equity
 
 ### Good Values
 - **High:** OPM, NPM
