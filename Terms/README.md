@@ -1,3 +1,4 @@
+- [Comodity](#com)
 - [Depreciation](#dep)
 - [EPS](#eps)
 - [Equity](#eq)
@@ -8,7 +9,12 @@
 - [Market Cap](#mc)
 - [P/E (Price to Earning Ratio)](#pe)
 - [Revenue](#re)
+- [Stoploss](#sl)
 - [Tax payout = Tax Refund]
+
+<a name=com></a>
+### Comodity
+A commodity market involves buying/selling/trading a raw product(oil, gold, or coffee). There are hard commodities, which are generally natural resources, and soft commodities, which are livestock or agricultural goods.
 
 <a name=dep></a>
 ### Depreciation
@@ -60,3 +66,8 @@ MC = (1 Share Price) x (Total Shares) = 2528 x 23400000 = 59,155,200,000 = 5000 
 <a name=re></a>
 ### Revenue
 Income especially when of an organization and of a substantial nature
+
+<a name=sl></a>
+### Stoploss
+- This is advance order to sell an asset when it reaches a particular price point.
+- It is used to limit loss or gain in a trade. The concept can be used for short-term as well as long-term trading.
