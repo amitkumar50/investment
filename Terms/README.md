@@ -20,6 +20,7 @@ Profit earned on 1 share/year. EPS = (Company's Total profit)/(Total shares)
 
 <a name=eq></a>
 ### Equity
+A investment entity is an entity whose purpose is to make investments for capital appreciation, investment income, or both
 
 ### Good Values
 - **High:** OPM, NPM
